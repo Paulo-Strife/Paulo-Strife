@@ -20,8 +20,8 @@
 
   <h3>📈 Estatísticas do GitHub</h3>
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo-strife&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo-strife&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo-strife&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo-strife&layout=compact&theme=dark" />
 
   <br><br>
   <hr>

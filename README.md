@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Olá, eu sou o Paulo Cesar! 👋</h1>
 
-  <p>Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Aqui você vai encontrar alguns dos meus projetos e o que ando estudando.</p>
-
+  Seja Bem Vindo(a) ao meu Perfil do GitHub! Aqui você vai encontrar meus principais projetos tanto pessoais como colaborativos, espero que goste do que veja! 
+    <br>
+    <b>May The Force Be With You!</b> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Yoda" width="25" />
   <hr>
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>

@@ -14,10 +14,10 @@ Minha stack principal inclui:
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=paulo-strifee&show_icons=true&theme=radical)
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=paulo-strife&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Como me encontrar:
-* **LinkedIn:** [Perfil](www.linkedin.com/in/paulo-cesar-de-souza-gomes)
+* **LinkedIn:** [Perfil](https://www.linkedin.com/in/paulo-cesar-de-souza-gomes/)
 * **E-mail:** gomespc@gmail.com

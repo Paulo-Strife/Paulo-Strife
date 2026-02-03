@@ -14,7 +14,7 @@ Minha stack principal inclui:
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=paulo-strife&show_icons=true&theme=radical)
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=paulo-strife)](https://github.com/paulo-strife/github-readme-stats)
 
 ---
 

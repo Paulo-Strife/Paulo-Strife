@@ -73,19 +73,19 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=paulo-strife&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=paulo-strife&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Estatísticas do GitHub"
   />
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-strife&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=paulo-strife&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Linguagens mais utilizadas"
   />
 
